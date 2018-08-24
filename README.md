@@ -8,6 +8,8 @@ A portable commandline tool to manage your mods overlay.
 
 ## Installation
 
+* [Github Release](https://github.com/Xe-No/RWR_TooManyModsFix/releases)
+* [Steam workshop(Current not avaliable)]()
 
 Download file `rwr_TooManyModsFix.exe` to RWR root directory, e.g. `D:\SteamGames\steamapps\common\RunningWithRifles\`.
 
