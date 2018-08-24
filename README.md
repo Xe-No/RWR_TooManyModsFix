@@ -1,16 +1,21 @@
 # RWR_TooManyModsFix
+![image](https://github.com/Xe-No/RWR_TooManyModsFix/raw/master/images/too_many0.png)
+
 Fix display bug after subscribing too many mods in Running with Rifles quickgame
+
 ![image](https://github.com/Xe-No/RWR_TooManyModsFix/raw/master/images/too_many1.png)
 
 ## Intro 
 Having too many mods and several of them aren't able to play?
+
 Why not try this?
+
 A portable commandline tool to manage your mods overlay.
 
 ## Installation
 
 * [Github Release](https://github.com/Xe-No/RWR_TooManyModsFix/releases)
-* [Steam workshop(Current not avaliable)]()
+* [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1490901277)
 
 Download file `rwr_TooManyModsFix.exe` to RWR root directory, e.g. `D:\SteamGames\steamapps\common\RunningWithRifles\`.
 
