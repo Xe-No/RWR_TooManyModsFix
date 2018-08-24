@@ -21,7 +21,9 @@ Download file `rwr_TooManyModsFix.exe` to RWR root directory, e.g. `D:\SteamGame
 
 ## Usage
 
-Simply open the file and key in the map and mod preset.
+Simply open the file, all maps and mods list and key in the index of the map and mod preset. 
 ![image](https://github.com/Xe-No/RWR_TooManyModsFix/raw/master/images/too_many2.png)
 ![image](https://github.com/Xe-No/RWR_TooManyModsFix/raw/master/images/too_many3.png)
 ![image](https://github.com/Xe-No/RWR_TooManyModsFix/raw/master/images/too_many4.png)
+
+If loaded correctly, mod could be displayed and corresponding factions could be select.
