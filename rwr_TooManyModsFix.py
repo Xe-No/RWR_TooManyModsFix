@@ -70,8 +70,9 @@ def ListMod():
 
     mods = []
     for folder in folders:
-        for index, mod in enumerate(os.listdir(folder)):
-            mods.append(mod)
+        if os.path.isdir(folder):
+            for index, mod in enumerate(os.listdir(folder)):
+                mods.append(mod)
 
 
 
