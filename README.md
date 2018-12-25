@@ -1,4 +1,6 @@
 # RWR_TooManyModsFix
+**Note: No need for this after ver 1.70, it's been fixed officially.**
+
 ![image](https://github.com/Xe-No/RWR_TooManyModsFix/raw/master/images/too_many0.png)
 
 Fix display bug after subscribing too many mods in Running with Rifles quickgame
